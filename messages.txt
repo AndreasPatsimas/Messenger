@@ -1,0 +1,74 @@
+id:1/ date of submission:2018-12-18/ sender:chris/ receiver:tasos/ message:Hi tasos! Did your team win last night?
+id:2/ date of submission:2018-12-18/ sender:tasos/ receiver:chris/ message:Hello chris! Unfortunately, my team yesterday last with score 3-1...
+id:4/ date of submission:2018-12-19/ sender:tasos/ receiver:chris/ message:Thanks bro!
+id:5/ date of submission:2018-12-19/ sender:konna/ receiver:andreas/ message:Do you want to go cinema,please?
+id:6/ date of submission:2018-12-19/ sender:andreas/ receiver:konna/ message:Sorry, but i can't.
+id:7/ date of submission:2018-12-19/ sender:konna/ receiver:andreas/ message:Ok... I'm sad...
+id:8/ date of submission:2018-12-20/ sender:andreas/ receiver:konna/ message:Ok! We will go to cinema!
+id:9/ date of submission:2018-12-20/ sender:andreas/ receiver:bozi/ message:Ok bozi don't worry.
+id:10/ date of submission:2018-12-20/ sender:bozi/ receiver:sotiris/ message:Next time you must be better.
+id:11/ date of submission:2018-12-21/ sender:bozi/ receiver:andreas/ message:When are we going to play?
+id:12/ date of submission:2018-12-21/ sender:andreas/ receiver:bozi/ message:We are going to play on 7/1/2019
+id:13/ date of submission:2018-12-21/ sender:bill/ receiver:michel/ message:Do you want to go gym?
+id:14/ date of submission:2018-12-21/ sender:michel/ receiver:bill/ message:Yes. What about tomorrow?
+id:15/ date of submission:2018-12-21/ sender:bill/ receiver:michel/ message:I think it's a good idea.
+id:16/ date of submission:2018-12-21/ sender:andreas/ receiver:michel/ message:Is your knee ok? Will you play on Monday?
+id:17/ date of submission:2018-12-21/ sender:michel/ receiver:andreas/ message:Yes. I am okay
+id:18/ date of submission:2018-12-22/ sender:adriana/ receiver:andreas/ message:Math is a difficult lesson. Do you help me?
+id:19/ date of submission:2018-12-22/ sender:andreas/ receiver:adriana/ message:Yes my lovely little cousin. Of course i will help you!
+id:20/ date of submission:2018-12-22/ sender:adriana/ receiver:andreas/ message:Thank you very much!!!
+id:21/ date of submission:2018-12-22/ sender:iasonas/ receiver:michel/ message:Hey bro! What's up?!
+id:22/ date of submission:2018-12-22/ sender:michel/ receiver:iasonas/ message:Hey crazy boy!!!!!!!!! What a wonderful day for gym!
+id:23/ date of submission:2018-12-22/ sender:andreas/ receiver:iasonas/ message:Hello Iasonas. Will you be ready on Monday for the football match?
+id:24/ date of submission:2018-12-22/ sender:iasonas/ receiver:andreas/ message:If i don't work, i'll come Andreas.
+id:25/ date of submission:2018-12-22/ sender:bill/ receiver:andreas/ message:You are a great defender but you must control better the ball.
+id:26/ date of submission:2018-12-22/ sender:andreas/ receiver:bill/ message:You are right bill.
+id:27/ date of submission:2018-12-22/ sender:bill/ receiver:andreas/ message:Always i'm right! ;)
+id:28/ date of submission:2018-12-22/ sender:chris/ receiver:adriana/ message:Hello my little sister!
+id:29/ date of submission:2018-12-22/ sender:adriana/ receiver:chris/ message:Hello my big brother!
+id:30 /date of submission:2018/12/22 /sender:konna /receiver:andreas /message:Crete is the most wonderful island in the world!
+id:31 /date of submission:2018/12/22 /sender:tasos /receiver:sotiris /message:I am the best goalkeeper ever!
+id:32 /date of submission:2019/01/02 /message:Hello
+id:33 /date of submission:2019/01/02 /message:Hello!
+id:34 /date of submission:2019/01/03 /sender:kasimat /receiver:andreas /message:Hahahaha! I'm very clever! Smell ya!
+id:35 /date of submission:2019/01/03 /sender:andreas /receiver:kasimat /message:Correct :)
+id:36 /date of submission:2019/01/04 /sender:tasos /receiver:andreas /message:I'm ready for Monday!!!
+id:37 /date of submission:2019/01/05 /sender:skafidas /receiver:andreas /message:Tell your brother not to be so angry!
+id:38 /date of submission:2019/01/05 /sender:chris /receiver:andreas /message:I love Anastasia!
+id:39 /date of submission:2019/01/05 /sender:sotiris /receiver:andreas /message:I am the best football in the world! I have one hundred million euros!
+id:40 /date of submission:2019/01/05 /sender:admin /receiver:andreas /message:Manis is a dangerous person. Take care of his messages...
+id:41 /date of submission:2019/01/05 /sender:andreas /receiver:admin /message:ok boss!
+id:42 /date of submission:2019/01/05 /sender:marathon /receiver:sotiris /message:I'll go you to national c division.
+id:43 /date of submission:2019/01/05 /sender:sotiris /receiver:marathon /message:Ok boss!!!
+id:44 /date of submission:2019/01/05 /sender:admin /receiver:sotiris /message:hello sotiro
+id:45 /date of submission:2019/01/05 /sender:admin /receiver:konna /message:hello kitty
+id:46 /date of submission:2019/01/05 /sender:andreas /receiver:haris /message:Please come back!!!
+id:49 /date of submission:2019/01/08 /sender:tasos /receiver:andreas /message:Yes,I'm okay. I'll come to the match.
+id:50 /date of submission:2019/01/08 /sender:andreas /receiver:sotiris /message:Good luck in your new team!
+id:51 /date of submission:2019/01/08 /sender:andreas /receiver:haris /message:You are very quick!
+id:52 /date of submission:2019/01/08 /sender:andreas /receiver:sotiris /message:You must have confidence!
+id:53 /date of submission:2019/01/08 /sender:andreas /receiver:bill /message:Hey bro!
+id:54 /date of submission:2019/01/09 /sender:admin /receiver:andreas /message:Great Job!
+id:55 /date of submission:2019/01/09 /sender:marathon /receiver:sotiris /message:You are going to play in Trahwnes FC.
+id:56 /date of submission:2019/01/10 /sender:fanis /receiver:konna /message:When will you come to Crete,sis?
+id:57 /date of submission:2019/01/10 /sender:konna /receiver:fanis /message:I'll come soon.
+id:58 /date of submission:2019/01/10 /sender:fanis /receiver:konna /message:I wait!
+id:59 /date of submission:2019/01/10 /sender:bill /receiver:kasimat /message:You are an idiot!
+id:60 /date of submission:2019/01/10 /sender:tasos /receiver:chris /message:Nice day!
+id:61 /date of submission:2019/01/10 /sender:chris /receiver:tasos /message:you are right
+id:62 /date of submission:2019/01/10 /sender:tasos /receiver:chris /message:I like sun, not snow!
+id:63 /date of submission:2019/01/12 /sender:konna /receiver:stelios /message:Hi!Dad!
+id:64 /date of submission:2019/01/12 /sender:stelios /receiver:konna /message:Hello my daughter!
+id:65 /date of submission:2019/01/15 /sender:bill /receiver:sotiris /message:You are better than me in football!!
+id:66 /date of submission:2019/01/15 /sender:sotiris /receiver:bill /message:I know!
+id:67 /date of submission:2019/01/15 /sender:andreas /receiver:sotiris /message:hi sotiris
+id:68 /date of submission:2019/01/16 /sender:andreas /receiver:sotiris /message:Sotiris, well done! Great match!
+id:69 /date of submission:2019/01/16 /sender:sotiris /receiver:andreas /message:Hello bro! I play very well in my new team!
+id:70 /date of submission:2019/01/16 /sender:ap /receiver:admin /message:yo menn
+id:71 /date of submission:2019/01/16 /sender:admin /receiver:ap /message:whats up man?
+id:72 /date of submission:2019/01/17 /sender:konna /receiver:stelios /message:Daddy i'm a good lawyer.
+id:73 /date of submission:2019/01/17 /sender:stelios /receiver:konna /message:good girl.
+id:74 /date of submission:2019/01/18 /sender:andreas /receiver:konna /message:How are you?
+id:75 /date of submission:2019/01/18 /sender:konna /receiver:andreas /message:I'm fine thank you!
+id:76 /date of submission:2019/01/18 /sender:konna /receiver:depi /message:Hi depi
+id:77 /date of submission:2019/01/18 /sender:depi /receiver:konna /message:hello my friend
